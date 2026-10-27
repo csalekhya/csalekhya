@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="788" viewBox="0 0 960 788" role="img" aria-label="Sai Alekhya Chandramouli: career timeline">
+<title>Sai Alekhya Chandramouli: career timeline</title>
+<style>
+/* Elements start hidden and animate in, so reduced motion must jump to the end state. */
+text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+.fade { opacity: 0; animation: fade .8s ease-out .2s forwards; }
+.track { stroke-dasharray: 612; stroke-dashoffset: 612; animation: draw 2.35s ease-in-out .3s forwards; }
+.m { opacity: 0; animation: pop .5s ease-out forwards; }
+@keyframes draw { to { stroke-dashoffset: 0; } }
+@keyframes fade { to { opacity: 1; } }
+@keyframes pop { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; opacity: 1 !important; stroke-dashoffset: 0 !important; transform: none !important; }
+}
+</style>
+<text x="0" y="76" font-size="46" font-weight="800" fill="#e6edf3">Sai Alekhya Chandramouli</text>
+<text class="fade" x="0" y="112" font-size="19" fill="#8b949e">I build BI platforms, semantic models and analytical workflows for finance and ops.</text>
+<line class="track" x1="150" y1="168" x2="150" y2="780" stroke="#f2cc60" stroke-width="3" stroke-linecap="round"/>
+<g class="m" style="animation-delay:0.40s">
+<text x="124" y="198" text-anchor="end" font-size="20" font-weight="800" fill="#f2cc60">2024</text>
+<circle cx="150" cy="192" r="10" fill="#f2cc60" stroke="#f2cc60" stroke-width="3"/>
+<rect x="186" y="168" width="766" height="118" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="206" y="198" font-size="17" font-weight="700" fill="#e6edf3">Business Intelligence Developer</text>
+<text x="932" y="198" text-anchor="end" font-size="13" fill="#8b949e">Nov 2024 – Present</text>
+<text x="206" y="222" font-size="15" font-weight="600" fill="#f2cc60">PNC</text>
+<text x="206" y="248" font-size="15" fill="#e6edf3">Engineered Power BI and Tableau solutions across 3 core business areas with</text><text x="206" y="270" font-size="15" fill="#e6edf3">approximately 15–20% faster execution</text>
+</g>
+<g class="m" style="animation-delay:0.75s">
+<text x="124" y="338" text-anchor="end" font-size="20" font-weight="800" fill="#8b949e">2024</text>
+<circle cx="150" cy="332" r="7" fill="#0d1117" stroke="#f2cc60" stroke-width="3"/>
+<rect x="186" y="308" width="766" height="96" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="206" y="338" font-size="17" font-weight="700" fill="#e6edf3">Data Engineer</text>
+<text x="932" y="338" text-anchor="end" font-size="13" fill="#8b949e">Apr 2024 – Oct 2024</text>
+<text x="206" y="362" font-size="15" font-weight="600" fill="#f2cc60">Microsoft</text>
+<text x="206" y="388" font-size="15" fill="#e6edf3">Reduced reporting errors by approximately 35% on Azure</text>
+</g>
+<g class="m" style="animation-delay:1.10s">
+<text x="124" y="456" text-anchor="end" font-size="20" font-weight="800" fill="#8b949e">2023</text>
+<circle cx="150" cy="450" r="7" fill="#0d1117" stroke="#f2cc60" stroke-width="3"/>
+<rect x="186" y="426" width="766" height="118" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="206" y="456" font-size="17" font-weight="700" fill="#e6edf3">Business Intelligence Analyst</text>
+<text x="932" y="456" text-anchor="end" font-size="13" fill="#8b949e">Sep 2023 – Mar 2024</text>
+<text x="206" y="480" font-size="15" font-weight="600" fill="#f2cc60">Allstate</text>
+<text x="206" y="506" font-size="15" fill="#e6edf3">Delivered recurring dashboards across 4 business areas and reduced manual report</text><text x="206" y="528" font-size="15" fill="#e6edf3">preparation by approximately 20% across selected reporting processes</text>
+</g>
+<g class="m" style="animation-delay:1.45s">
+<text x="124" y="596" text-anchor="end" font-size="20" font-weight="800" fill="#8b949e">2019</text>
+<circle cx="150" cy="590" r="7" fill="#0d1117" stroke="#f2cc60" stroke-width="3"/>
+<rect x="186" y="566" width="766" height="118" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="206" y="596" font-size="17" font-weight="700" fill="#e6edf3">Data Analyst</text>
+<text x="932" y="596" text-anchor="end" font-size="13" fill="#8b949e">Jun 2019 – Jun 2021</text>
+<text x="206" y="620" font-size="15" font-weight="600" fill="#f2cc60">Hexaware Technologies</text>
+<text x="206" y="646" font-size="15" fill="#e6edf3">Automated Excel and SQL reporting, reducing manual effort by approximately 10–15% for</text><text x="206" y="668" font-size="15" fill="#e6edf3">selected activities</text>
+</g>
+<g class="m" style="animation-delay:1.80s">
+<text x="124" y="736" text-anchor="end" font-size="20" font-weight="800" fill="#8b949e">2026</text>
+<circle cx="150" cy="730" r="7" fill="#0d1117" stroke="#f2cc60" stroke-width="3"/>
+<rect x="186" y="706" width="766" height="74" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="206" y="736" font-size="17" font-weight="700" fill="#e6edf3">Doctor of Business Administration (DBA) in Artif…</text>
+<text x="932" y="736" text-anchor="end" font-size="13" fill="#8b949e">Graduated 2026</text>
+<text x="206" y="760" font-size="15" font-weight="600" fill="#f2cc60">Belhaven University</text>
+
+</g>
+</svg>
